@@ -13,7 +13,7 @@
 
 # quantifier in regex
 
--quantifier are the occurrence indicators (or repetition operators)
+- quantifier are the occurrence indicators (or repetition operators)
 
 | character | Description | Example Pattern Code  | Example Match |
 | :---: | :---: | :---:  | :---: |
