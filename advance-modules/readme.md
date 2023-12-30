@@ -26,12 +26,12 @@
 
 # additional regex
 
-| pip is or operator
-. period is wild card
-[...] accep any one of the character within the square bracket eg [aeiou]
-[.-.] accept any one of the character in the range [0-9] [a-zA-z]
-[^...] not one of the character
+- | pip is or operator
+- . period is wild card
+ - [...] accept any one of the character within the square bracket eg [aeiou]
+ - [.-.] accept any one of the character in the range [0-9] [a-zA-z]
+ - [^...] not one of the character
 
--position anchors
-^ carrot is start with
-$ dollor is end with
+- position anchors
+ -- ^ carrot is start with
+ -- $ dollor is end with
